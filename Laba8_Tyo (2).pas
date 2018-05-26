@@ -28,7 +28,7 @@ begin
   read(n);
   for i:=1 to n do
     read(a[i]);
-    //Первый этап
+   
     For i:=1 to n do 
       If SumNum(a[i])=21 then begin
        If i=n then begin
